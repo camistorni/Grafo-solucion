@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/CaminoMinimo.h
+string
+-
+Lista.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Lista.h
+Vertice.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Vertice.h
+iostream
+-
+
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Floyd.h
+CaminoMinimo.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/CaminoMinimo.h
+
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Grafo.h
+string
+-
+Lista.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Lista.h
+Vertice.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Vertice.h
+Floyd.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Floyd.h
+
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Lista.h
+string
+-
+Nodo.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Nodo.h
+
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Nodo.h
+string
+-
+
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Vertice.h
+string
+-
+
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/main.cpp
+Grafo.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/Grafo.h
+string.h
+/home/cami/Downloads/Ejercicio Floyd Dijkstra - solucion/Grafo solucion/string.h
+
